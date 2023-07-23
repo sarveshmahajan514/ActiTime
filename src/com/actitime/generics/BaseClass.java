@@ -55,7 +55,6 @@ public class BaseClass
 		h.setLogoutbtn();
 	}
 	
-	//Changes by mayank
 	
-	//Changes made by saresh
+	//Changes made by sarvesh New
 }

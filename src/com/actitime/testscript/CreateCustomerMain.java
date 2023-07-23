@@ -41,8 +41,6 @@ public class CreateCustomerMain extends BaseClass
 		
 		Assert.assertEquals(actual, cn);
 		
-		//Changes by mayank
-		
-		//Changes made by sarvesh
+		//Changes made by sarvesh new
 	}
 }
